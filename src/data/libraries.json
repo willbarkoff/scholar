@@ -1,0 +1,205 @@
+[
+	{
+		"name": "John Henrik Clarke Africana Library",
+		"shortName": "Africana Library",
+		"addr": "310 Triphammer Road, Ithaca, NY 14850",
+		"loc": {
+			"latitude": 42.45738380161014,
+			"longitude": -76.48238918834271
+		},
+		"iid": 973,
+		"lid": 3319,
+		"url": "https://africana.library.cornell.edu"
+	},
+	{
+		"name": "Catherwood Library",
+		"shortName": "Catherwood Library",
+		"addr": "229 Ives Hall, Ithaca, NY 14853",
+		"loc": {
+			"latitude": 42.447269595804805,
+			"longitude": -76.48110268414982
+		},
+		"iid": 973,
+		"lid": 3323,
+		"url": "https://catherwood.library.cornell.edu/full-hours/"
+	},
+	{
+		"name": "Engineering Library",
+		"shortName": "Engineering Library",
+		"addr": " 103A Carpenter Hall, Ithaca, NY 14853",
+		"loc": {
+			"latitude": 42.4447758773164,
+			"longitude": -76.48418416780379
+		},
+		"iid": 973,
+		"lid": 7862
+	},
+	{
+		"name": "Mui Ho Fine Arts Library",
+		"shortName": "Fine Arts Library",
+		"addr": "947 University Ave #200, Ithaca, NY 14853",
+		"loc": {
+			"longitude": 42.45128500655774,
+			"latitude": -76.48286530088542
+		},
+		"iid": 973,
+		"lid": 3321
+	},
+	{
+		"name": "Sidney Cox Library of Music and Dance",
+		"shortName": "Music Library",
+		"addr": "220 Lincoln Hall, Ithaca, NY 14853",
+		"loc": {
+			"latitude": 42.45017086873454,
+			"longitude": -76.48346223128529
+		},
+		"iid": 973,
+		"lid": 3328
+	},
+	{
+		"name": "Mathematics Library",
+		"shortName": "Mathematics Library",
+		"addr": "420 Malott Hall, Ithaca, NY 14853",
+		"loc": {
+			"latitude": 42.44829313441963,
+			"longitude": -76.48020763128531
+		},
+		"iid": 973,
+		"lid": 3327
+	},
+	{
+		"name": "Mann Library",
+		"shortName": "Mann Library",
+		"addr": "237 Mann Drive, Ithaca, NY 14853",
+		"loc": {
+			"latitude": 42.44878726258188,
+			"longitude": -76.47627308667164
+		},
+		"iid": 973,
+		"lid": 1707
+	},
+	{
+		"name": "Kroch Library Asia Collections",
+		"shortName": "Asia Collections",
+		"addr": "180 Kroch Library, Ithaca, NY 14853",
+		"addrNotes": "Access through Olin Library",
+		"loc": {
+			"latitude": 42.44808346872382,
+			"longitude": -76.48337219032902
+		},
+		"iid": 973,
+		"lid": 3324
+	},
+	{
+		"name": "Rare and Manuscript Collections",
+		"shortName": "Rare and Manuscript Collections",
+		"addr": "2B Kroch Library, Ithaca, NY 14853",
+		"addrNotes": "Access through Olin Library",
+		"loc": {
+			"latitude": 42.44808346872382,
+			"longitude": -76.48337219032902
+		},
+		"iid": 973,
+		"lid": 3325
+	},
+	{
+		"name": "Rare and Manuscript Collections",
+		"shortName": "Rare and Manuscript Collections",
+		"addr": "2B Kroch Library, Ithaca, NY 14853",
+		"addrNotes": "Access through Olin Library",
+		"loc": {
+			"latitude": 42.44808346872382,
+			"longitude": -76.48337219032902
+		},
+		"iid": 973,
+		"lid": 3325
+	},
+	{
+		"name": "Olin Library",
+		"shortName": "Olin Library",
+		"addr": "161 Ho Plaza, Ithaca, NY 14853",
+		"loc": {
+			"latitude": 42.44777851379909,
+			"longitude": -76.48416846983024
+		},
+		"iid": 973,
+		"lid": 2818
+	},
+	{
+		"name": "Uris Library",
+		"shortName": "Uris Library",
+		"addr": "160 Ho Plaza, Ithaca, NY 14853",
+		"loc": {
+			"latitude": 42.44774513168585,
+			"longitude": -76.48530152053992
+		},
+		"iid": 973,
+		"lid": 2830
+	},
+	{
+		"name": "Clark Physical Sciences Library",
+		"shortName": "Physical Sciences Library",
+		"addr": "293 Clark Hall, Ithaca, NY 14853",
+		"loc": {
+			"latitude": 42.44970772922515,
+			"longitude": -76.4816951350544
+		},
+		"iid": 973,
+		"lid": 10937
+	},
+	{
+		"name": "Nestlé Hotel School Library",
+		"shortName": "Nestlé Library",
+		"addr": "G80 Statler Hall, Ithaca, NY 14850",
+		"loc": {
+			"latitude": 42.44540582172519,
+			"longitude": -76.48227619516345
+		},
+		"iid": 973,
+		"lid": 3322
+	},
+	{
+		"name": "Law Library",
+		"shortName": "Law Library",
+		"addr": "Myron Taylor Hall, Ithaca, NY 14853",
+		"loc": {
+			"latitude": 42.44383313825869,
+			"longitude": -76.48581677384296
+		},
+		"iid": 973,
+		"lid": 3476
+	},
+	{
+		"name": "Library Annex",
+		"shortName": "Library Annex",
+		"addr": "209 Bookbank Rd, Ithaca, NY, 14850",
+		"loc": {
+			"latitude": 42.44449489726273,
+			"longitude": -76.45873921287813
+		},
+		"iid": 973,
+		"lid": 3326
+	},
+	{
+		"name": "Flower-Sprecher Veterinary Library",
+		"shortName": "Veterinary Library",
+		"addr": "S1 201 Veterinary Education Center, Ithaca, NY 14853",
+		"loc": {
+			"latitude": 42.447566609444074,
+			"longitude": -76.46586421098145
+		},
+		"iid": 973,
+		"lid": 3331
+	},
+	{
+		"name": "Management Library",
+		"shortName": "Management Library",
+		"addr": "101 Sage Hall, Ithaca, NY 14853",
+		"loc": {
+			"latitude": 42.445888579309546,
+			"longitude": -76.48329346696147
+		},
+		"iid": 973,
+		"lid": 3340
+	}
+]
